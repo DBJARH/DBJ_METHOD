@@ -56,17 +56,23 @@ DBJ Method is an enterprise architecture approach that enforces complete decoupl
 
 ```mermaid
 graph LR
-  B[Business]
-  IT[IT]
-    subgraph System 
+  B[WHY<br>WHAT<br/>REQ]
+  BN["`Business owns the decision<br/> Product makes <br>it into Function`"]:::note
+  BN ---> B
+  classDef note fill:#ff,stroke:#999,stroke-dasharray:5
+
+  IT[Engineering<br>HOW]
+    subgraph Product 
     M1[Functional Module 1]
     %% indicate there could be more modules
     M2[Functional Module 2] 
     M3[Functional Module 3]
     end
-  B -->|Create/Update/Remove| M2
-  IT-->|Act| M2
-  B <--> |Coordinate| IT
+  IT -->|Create| M1
+  IT -->|Update| M2
+  IT -->|Remove| M3
+  B --> |Coordinate| IT
+  IT --> |Submit<br>For UAT| B
 ```
 ### Modules and Features
 
