@@ -1,6 +1,6 @@
 ---
 copyright: dbj dot org
-year:2025
+year: 2025
 ---
 
 - [Primordial DBJ Method](#primordial-dbj-method)
