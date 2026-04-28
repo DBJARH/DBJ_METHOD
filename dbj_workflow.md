@@ -1,8 +1,13 @@
-# DBJ Method Workflow
+---
+copyright: dbj dot org
+year:2025
+---
+
+# Primordial DBJ Method Workflow
 
 ## Workflow Terminology
 
-### Actors
+**Roles**
 
 | Role | Responsibilities |
 |------|-----------------|
@@ -84,3 +89,8 @@ end
    - Regular validation cycles
    - Automated testing
    - Performance monitoring
+
+
+---
+![alt text](assests/dbj-org-logo.jpg)
+&copy; dbj dot org ltd | CC BY SA 4.0

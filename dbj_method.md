@@ -1,7 +1,32 @@
-# DBJ Method Documentation
+---
+copyright: dbj dot org
+year:2025
+---
+
+- [Primordial DBJ Method](#primordial-dbj-method)
+  - [Overview](#overview)
+  - [Core Concepts](#core-concepts)
+    - [Workflow](#workflow)
+    - [Workflow](#workflow-1)
+    - [Modules and Features](#modules-and-features)
+    - [Summary](#summary)
+  - [Principles](#principles)
+    - [1. Strict Separation of Concerns](#1-strict-separation-of-concerns)
+    - [2. Module-Centric Design](#2-module-centric-design)
+    - [3. Process Flow](#3-process-flow)
+  - [Technical Requirements](#technical-requirements)
+    - [Infrastructure (IT Responsibility)](#infrastructure-it-responsibility)
+    - [Automation Requirements](#automation-requirements)
+  - [Best Practices](#best-practices)
+    - [Module Design](#module-design)
+    - [Implementation Guidelines](#implementation-guidelines)
+  - [Migration Strategy](#migration-strategy)
+
+
+# Primordial DBJ Method
 
 ## Overview
-DBJ Method is an enterprise architecture approach that enforces complete decoupling between Business and IT through functional modules.
+DBJ Method is an enterprise architecture approach that enforces complete decoupling between Business and IT through functional modules of products.
 
 ## Core Concepts
 
@@ -66,7 +91,7 @@ graph RL
   end
   end
 ```
-### Image
+### Summary
 
 ![](dbj_method.png)
 
@@ -125,3 +150,8 @@ graph RL
 - Maintain backward compatibility
 - Document dependencies thoroughly
 - Test swappability regularly
+
+
+---
+![alt text](assests/dbj-org-logo.jpg)
+&copy; dbj dot org ltd | CC BY SA 4.0
