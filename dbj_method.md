@@ -93,7 +93,7 @@ graph RL
 ```
 ### Summary
 
-![](dbj_method.png)
+![](assests/dbj_method.png)
 
 ## Principles
 
