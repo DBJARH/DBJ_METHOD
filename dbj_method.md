@@ -153,5 +153,7 @@ graph RL
 
 
 ---
-![alt text](assests/dbj-org-logo.jpg)
-&copy; dbj dot org ltd | CC BY SA 4.0
+![alt text](assests/dbj-org-logo-64.jpg)
+> &copy; dbj dot org ltd 
+> 
+> CC BY SA 4.0

@@ -1,5 +1,17 @@
-# DBJ METHOD
-
+---
+copyright: dbj dot org
+year:2025
 ---
 
-&copy; dbj@dbj.org  CC BY SA 4.0
+# Primordial DBJ METHOD
+
+### [Method](dbj_method.md)
+
+### [Workflow](dbj_workflow.md)
+
+
+---
+![alt text](assests/dbj-org-logo-64.jpg)
+> &copy; dbj dot org ltd 
+> 
+> CC BY SA 4.0
